@@ -1,0 +1,51 @@
+
+.body{
+    margin: 0;
+}
+.wrapper{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.arrange-left{
+    float: left;
+}
+.wid-25{
+    width: 25%;
+}
+.wid-50{
+    width: 50%;
+}
+.wid-75{
+    width: 75%;
+}
+.wid-33{
+    width: 33.3%;
+}
+.next-row{
+    clear: both;
+}
+.common-btn{
+    height: 35px;
+    border: 1px solid #ddd;
+    border-radius: 0;
+    background-color: #fff;
+    min-width: 50px;
+    text-align: center;
+    color: #D19C97;
+    margin-right: 10px;
+}
+
+.common-btn span{
+    font-size: 16px;
+    font-weight: 700;
+}
+.selected-product{
+    text-align: right;
+}
+.common-btn i{
+    padding-left: 6px;
+    padding-right: 6px;
+}
+.margin-right-5{
+    margin-right: 5%;
+}
